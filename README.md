@@ -1,4 +1,4 @@
-# Email Development Portfolio — Nicolás Quinchía
+# Email Development Portfolio - Nicolás Quinchía
 
 Production-grade HTML email projects covering promotional campaigns, lifecycle marketing, onboarding flows, and transactional emails. Each project is built with a focus on cross-client compatibility, responsive behavior, accessibility (ADA/WCAG), and real-world production techniques.
 
@@ -6,7 +6,7 @@ Production-grade HTML email projects covering promotional campaigns, lifecycle m
 
 ## About
 
-I'm an Email Developer with 3+ years of professional experience building responsive, cross-client email campaigns for Fortune 500 clients — Johnson & Johnson, Pfizer, and USAA — through Publicis Group. My background combines hands-on email production with a full-stack engineering foundation from Holberton School, allowing me to bridge email development, CRM workflows, and frontend engineering.
+I'm an Email Developer with 3+ years of professional experience building responsive, cross-client email campaigns for Fortune 500 clients - Johnson & Johnson, Pfizer, and USAA - through Publicis Group. My background combines hands-on email production with a full-stack engineering foundation from Holberton School, allowing me to bridge email development, CRM workflows, and frontend engineering.
 
 This portfolio reflects the same standards I apply in production: clean, maintainable code, Outlook-safe VML fallbacks, fluid responsive layouts, and documented technical decisions.
 
@@ -18,8 +18,8 @@ This portfolio reflects the same standards I apply in production: clean, maintai
 
 | Project | Type | Key Techniques |
 |---|---|---|
-| [Scentbird — Be Bold](./scentbird/) | Promotional | Dual background images, VML, inline-block stacking, PNG transparency |
-| [KAYAK — Welcome Onboarding](./kayak/) | Onboarding | Fluid layout, v:roundrect buttons, preheader padding, dark mode |
+| [Scentbird - Be Bold](./scentbird/) | Promotional | Dual background images, VML, inline-block stacking, PNG transparency |
+| [KAYAK - Welcome Onboarding](./kayak/) | Onboarding | Fluid layout, v:roundrect buttons, preheader padding, dark mode |
 | More coming soon... | | |
 
 ---
@@ -66,12 +66,12 @@ This portfolio reflects the same standards I apply in production: clean, maintai
 ```
 email-portfolio/
 │
-├── scentbird/          ← Promotional — Be Bold campaign
+├── scentbird/          ← Promotional - Be Bold campaign
 │   ├── index.html
 │   ├── images/
 │   └── README.md
 │
-├── kayak/              ← Onboarding — Welcome email
+├── kayak/              ← Onboarding - Welcome email
 │   ├── index.html
 │   └── README.md
 │
