@@ -20,6 +20,7 @@ This portfolio reflects the same standards I apply in production: clean, maintai
 |---|---|---|
 | [Scentbird - Be Bold](./scentbird/) | Promotional | Dual background images, VML, inline-block stacking, PNG transparency |
 | [KAYAK - Welcome Onboarding](./kayak/) | Onboarding | Fluid layout, v:roundrect buttons, preheader padding, dark mode |
+| [Headspace - All Day Support](./headspace/) | Engagement | Hide/show dual-column, @font-face custom fonts, dual timeline assets, mobile spacer overrides |
 | More coming soon... | | |
 
 ---
